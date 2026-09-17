@@ -41,6 +41,13 @@ child-appropriate contextual advertising. They describe Kidoz's technical data
 processing and link to Kidoz's current Website and SDK Privacy Policy. Review
 the disclosure again whenever the SDK configuration or Kidoz policy changes.
 
+## Icons
+
+- Store-ready 512 × 512 PNG: `assets/icon-512.png`
+- Browser favicon: `assets/favicon-32.png`
+- Apple touch icon: `assets/apple-touch-icon.png`
+- Full-resolution source used on the page: `assets/app-icon.png` (1024 × 1024)
+
 No build step or external JavaScript dependency is required. The website uses
 lossless WebP files generated directly from the original 1080-pixel-wide
 emulator captures; it does not reuse the framed Google Play marketing images.
