@@ -34,6 +34,13 @@ steps and are not performed by these files.
 - Website: `https://sfc.hopalt.com/`
 - Support email: `hopalt@gmail.com`
 
+## Advertising disclosure
+
+The multilingual home and privacy pages disclose the planned use of Kidoz
+child-appropriate contextual advertising. They describe Kidoz's technical data
+processing and link to Kidoz's current Website and SDK Privacy Policy. Review
+the disclosure again whenever the SDK configuration or Kidoz policy changes.
+
 No build step or external JavaScript dependency is required. The website uses
 lossless WebP files generated directly from the original 1080-pixel-wide
 emulator captures; it does not reuse the framed Google Play marketing images.
