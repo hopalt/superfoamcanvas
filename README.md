@@ -36,10 +36,11 @@ steps and are not performed by these files.
 
 ## Advertising disclosure
 
-The multilingual home and privacy pages disclose the planned use of Kidoz
-child-appropriate contextual advertising. They describe Kidoz's technical data
-processing and link to Kidoz's current Website and SDK Privacy Policy. Review
-the disclosure again whenever the SDK configuration or Kidoz policy changes.
+The multilingual home and privacy pages disclose Unity Ads child-directed
+contextual banner advertising on Android (no ads on iOS), describe the data
+Unity Ads processes, and link to Unity's Privacy Policy. Review the disclosure
+again whenever the SDK configuration or Unity policy changes. See
+`docs/UNITY_ADS_INTEGRATION.md` in the app repository.
 
 ## Icons
 
