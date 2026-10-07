@@ -52,3 +52,7 @@ again whenever the SDK configuration or Unity policy changes. See
 No build step or external JavaScript dependency is required. The website uses
 lossless WebP files generated directly from the original 1080-pixel-wide
 emulator captures; it does not reuse the framed Google Play marketing images.
+
+Pages link `assets/styles.css?v=YYYYMMDD`. Bump the date in every `index.html`
+when `styles.css` changes; GitHub Pages caches the stylesheet for about ten
+minutes and returning visitors would otherwise mix new HTML with old CSS.
