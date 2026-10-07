@@ -53,6 +53,6 @@ No build step or external JavaScript dependency is required. The website uses
 lossless WebP files generated directly from the original 1080-pixel-wide
 emulator captures; it does not reuse the framed Google Play marketing images.
 
-Pages link `assets/styles.css?v=YYYYMMDD`. Bump the date in every `index.html`
-when `styles.css` changes; GitHub Pages caches the stylesheet for about ten
-minutes and returning visitors would otherwise mix new HTML with old CSS.
+Pages link `assets/styles.css?v=YYYYMMDD` and the screenshot `.webp` files the same way. Bump the date in every `index.html`
+when those files change; GitHub Pages caches them for about ten
+minutes and returning visitors would otherwise mix new HTML with old files.
